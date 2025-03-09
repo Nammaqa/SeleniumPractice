@@ -1,0 +1,6 @@
+WinActivate("Open")
+Sleep(5000)
+Send("file:///C:/Users/User/Desktop/vinay/cssselector.png")
+Send("{Enter}")
+Sleep(5000)
+#WinClose("Open")
